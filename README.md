@@ -23,3 +23,13 @@ Landau also established the famous **"Theoretical Minimum,"** a rigorous examina
 **Evgeny M. Lifshitz** was a Soviet theoretical physicist and Landau's closest collaborator. He co-authored nearly the entire *Course of Theoretical Physics* series and made significant contributions to statistical physics, electrodynamics, gravitation, condensed matter physics, and plasma physics.
 
 After Landau's serious automobile accident in 1962, Lifshitz took the lead in revising and expanding the series. Through his efforts, the books have remained authoritative references for generations of physicists and continue to be widely used in universities and research institutes around the world.
+
+---
+
+## In this Repo
+
+Because no Korean book that series, I write note for Korean.
+
+
+
+
