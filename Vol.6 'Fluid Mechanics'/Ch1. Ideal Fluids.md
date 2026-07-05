@@ -1,6 +1,6 @@
 # Chapter 1. IDEAL FLUIDS
 
-## $\S$ Equation of continuity
+## $\S$ 1. Equation of continuity
 
 유체는 수많은 분자들로 이루어져있지만, 유체역학에서는 '물리적으로 작은' 유한한 요소에 집중한다. 
 물리량들은 $\underline{u}(x,y,z,t) , p(x,y,z,t), \rho (x,y,z,t)$ 등으로 나타난다.
@@ -28,13 +28,14 @@ $$
 \oint \rho \underline{u} \cdot d\underline{f}=\int \nabla (\rho \underline{u})dV $$
 
 $$
-\int (\frac{\partial \rho}{\partial t}+\nabla (\rho \underline{u}))dV =0 \
+\int (\frac{\partial \rho}{\partial t}+\nabla (\rho \underline{u}))dV =0 $$
 
-\frac{\partial \rho}{\partial t}+\nabla (\rho \underline{u}) $$
+$$
+\frac{\partial \rho}{\partial t}+\nabla (\rho \underline{u})=0 $$
 
 이 식이 연속방정식(Equation of Continuity) 이다.
 
-$\nabla (\rho \underline{u})=\rho \nabla underline{u}+\underline{u} \nabla \rho $ 로도 표현할수있으며
+$\nabla (\rho \underline{u})=\rho \nabla \underline{u}+\underline{u} \nabla \rho$ 로도 표현할수있으며
 
 벡터 $\underline{j}=\rho \underline{u}$ 를 질량플럭스밀도 혹은 질량속도 (mass flux density)라고 표현한다.
 
